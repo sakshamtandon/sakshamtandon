@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakshamtandon
 - 👀 I’m interested in BackEnd Development and DevOps
-- 🌱 I’m currently learning DevOps & Django
+- 🌱 1 year of experience in DevOps & Django
 - 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me saksham12356@gmail.com
 
